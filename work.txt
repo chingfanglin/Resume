@@ -1,0 +1,53 @@
+Lin Ching Fang
+=========
+
+林慶芳
+目前為前端工程師
+Full-Stack / C# / MVC / NodeJS / Javascript / Vue
+
+工作經驗
+--------
+
+* http://www.i-teck-global.net 艾拓國際系統有限公司
+ ．負責網站建置，內部管理系統
+ ．使用技術 NodeJS + electron +  vue + react + webpack + scss + PostgreSQL
+
+
+* http://www.aircastsystem.com/ AirCast飛力通股份有限公司
+ ．隸屬於 Integration Team，負責系統整合
+ ．使用技術 C# + MVC + jQuery + javascript + MS SQL + PostgreSQL
+
+
+* 台非實業股份有限公司
+ ．負責南非總公司　mipis 進出口管理維護與開發，以及HR系統
+ ．使用技術 C# + MVC + jQuery + javascript + MS SQL
+
+
+* http://www.sunwai.com/ 翔偉資安科技
+ ．負責公司官方網站 ,購物系統以及產品的庫存管理
+ ．使用技術 C# + ASP.NET + jQuery + javascript + MS SQL
+
+
+掌握技能
+--------
+C#
+MVC
+Javascript
+CSS
+MS SQL
+PostgreSQL
+
+框架
+--------
+Vue
+React
+Electron
+jQuery
+Bootstrap
+
+
+開源
+-----------
+* js-array-enum
+
+

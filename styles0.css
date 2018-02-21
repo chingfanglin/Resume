@@ -1,0 +1,100 @@
+/**
+ *
+ * 你好. 我的名字是林慶芳. 目前正在找工作
+ * 我就來寫份簡歷吧!!
+ *
+ */
+
+/**
+ * /* 首先给所有元素加上過渡效果
+ */
+
+* {
+  -webkit-transition: all 1s;
+}
+
+/**
+ * 這並沒有太大作用.
+ *
+ * 白色背景太單調了，我们来點背景
+ *
+ */
+
+html {
+  background: rgb(63, 82, 99);
+}
+
+/***
+ * 等一下
+ */
+
+pre, a {
+  color: white;
+}
+
+/**
+ * 再這麼大的區域工作很討厭
+ *
+ * 應該規劃出一個空間
+ *
+ */
+
+pre:not(:empty) {
+  overflow: auto;
+  background: rgb(48, 48, 48);
+  border: 1px solid #ccc;
+  max-height: 44.6%;
+  width: 49%;
+  font-size: 14px;
+  font-family: monospace;
+  padding: 10px 10px 20px;
+  box-shadow: -4px 4px 2px 0 rgba(0,0,0,0.3);
+  white-space: pre-wrap;
+  outline: 0;
+}
+
+/**
+ * 好的. 應該開始填滿畫面
+ * 先準備些東西
+ */
+
+#style-text {
+  -webkit-transform: translateX(95%);
+  position: absolute;
+}
+
+/**
+ * 所有文字都是白色
+ * 應該要增加可讀性.
+ */
+
+.comment       { color: #857F6B; font-style: italic; }
+.selector      { color: #E69F0F; }
+.selector .key { color: #64D5EA; }
+.key           { color: #64D5EA; }
+.value         { color: #BE84F2; }
+.value.px      { color: #F92772; }
+
+/**
+ * 現在的思路是對的
+ * 應該能做出不錯的東西
+ */
+
+body {
+  -webkit-perspective: 1000px;
+}
+
+#style-text {
+  -webkit-transform: translateX(98.5%) rotateY(-10deg);
+  -webkit-transform-origin: right;
+  max-height: 94.5%;
+}
+
+/**
+ * 現在來看看項目吧. 這應該是你來的目的
+ */
+
+pre:not(#style-text) {
+  -webkit-transform: rotateY(10deg);
+  -webkit-transform-origin: left;
+}
