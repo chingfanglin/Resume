@@ -1,12 +1,16 @@
 Lin Ching Fang
 =========
-
 林慶芳
-目前為前端工程師
-Full-Stack / C# / MVC / NodeJS / Javascript / Vue
+目前為 Senior Backend Programmer 
+Full-Stack / C# / MVC / NodeJS / Javascript / Vue / Electron / CSS / SCSS
 
 工作經驗
 --------
+
+* 專羿行動股份有限公司
+ ．負責網站建置，內部管理系統
+ ．使用技術 C# + MVC + jQuery + Vue + javascript + MS SQL 
+
 
 * http://www.i-teck-global.net 艾拓國際系統有限公司
  ．負責網站建置，內部管理系統
@@ -34,6 +38,7 @@ C#
 MVC
 Javascript
 CSS
+SCSS
 MS SQL
 PostgreSQL
 
@@ -48,6 +53,6 @@ Bootstrap
 
 開源
 -----------
-* js-array-enum
-
-
+* js-array-enum         https://www.npmjs.com/package/js-array-enum
+* lan-emoji             https://www.npmjs.com/package/lan-emoji
+* vuejs-contextmenu-lan https://www.npmjs.com/package/vuejs-contextmenu-lan
